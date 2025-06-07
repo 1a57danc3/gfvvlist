@@ -1,0 +1,8 @@
+cloudfront.net
+googlecode.com
+verisign.com
+qpic.cn
+translate-tab.com
+layervault.com
+list-manage.com
+goagent.co
